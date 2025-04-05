@@ -119,7 +119,7 @@ Your app will:
 
 ## 👨‍💻 Authors
 
-Made with 💙 by [Your Team Name or Name Here]
+Made with 💙 by Triple Helix
 
 ---
 
