@@ -1,0 +1,2945 @@
+[{
+  "_id": {
+    "$oid": "67ea6fd235715bb62e991585"
+  },
+  "ingredient": "flour",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 120,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "pieces": null,
+    "tablespoons": 7.81,
+    "teaspoons": 2.6,
+    "scoops": 60,
+    "pinches": 0.3,
+    "dashes": null,
+    "smidgen": null,
+    "sticks": null,
+    "packets": null,
+    "bars": null,
+    "sheets": null,
+    "milliliters": 0.57,
+    "liters": 570,
+    "pints": 268,
+    "quarts": 536,
+    "gallons": 2144,
+    "fluid_ounces": 16,
+    "drops": null,
+    "drams": 1.77,
+    "cans": null
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea6fd235715bb62e991586"
+  },
+  "ingredient": "sugar",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 200,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "pieces": null,
+    "tablespoons": 12.5,
+    "teaspoons": 4.2,
+    "scoops": 100,
+    "pinches": 0.5,
+    "dashes": null,
+    "smidgen": null,
+    "sticks": null,
+    "packets": null,
+    "bars": null,
+    "sheets": null,
+    "milliliters": 0.85,
+    "liters": 850,
+    "pints": 400,
+    "quarts": 800,
+    "gallons": 3200,
+    "fluid_ounces": 33.8,
+    "drops": null,
+    "drams": 1.77,
+    "cans": null
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea6fd235715bb62e991587"
+  },
+  "ingredient": "yeast",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 150,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "pieces": null,
+    "tablespoons": 9.3,
+    "teaspoons": 3.1,
+    "scoops": 80,
+    "pinches": 0.4,
+    "dashes": null,
+    "smidgen": null,
+    "sticks": null,
+    "packets": 7,
+    "bars": null,
+    "sheets": null,
+    "milliliters": 0.65,
+    "liters": 650,
+    "pints": 320,
+    "quarts": 640,
+    "gallons": 2560,
+    "fluid_ounces": 27.1,
+    "drops": null,
+    "drams": 1.5,
+    "cans": null
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea6fd235715bb62e991588"
+  },
+  "ingredient": "salt",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 280,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "pieces": null,
+    "tablespoons": 18,
+    "teaspoons": 6,
+    "scoops": 140,
+    "pinches": 0.6,
+    "dashes": null,
+    "smidgen": null,
+    "sticks": null,
+    "packets": null,
+    "bars": null,
+    "sheets": null,
+    "milliliters": 1.1,
+    "liters": 1100,
+    "pints": 520,
+    "quarts": 1040,
+    "gallons": 4160,
+    "fluid_ounces": 44.4,
+    "drops": null,
+    "drams": 2.2,
+    "cans": null
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea6fd235715bb62e991589"
+  },
+  "ingredient": "butter",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 227,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "pieces": null,
+    "tablespoons": 14.18,
+    "teaspoons": 4.73,
+    "scoops": 113,
+    "pinches": null,
+    "dashes": null,
+    "smidgen": null,
+    "sticks": 113,
+    "packets": null,
+    "bars": null,
+    "sheets": null,
+    "milliliters": 0.96,
+    "liters": 960,
+    "pints": 460,
+    "quarts": 920,
+    "gallons": 3680,
+    "fluid_ounces": 40.6,
+    "drops": null,
+    "drams": 2,
+    "cans": null
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea6fd235715bb62e99158a"
+  },
+  "ingredient": "margarine",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 227,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "pieces": null,
+    "tablespoons": 14.18,
+    "teaspoons": 4.73,
+    "scoops": 113,
+    "pinches": null,
+    "dashes": null,
+    "smidgen": null,
+    "sticks": 113,
+    "packets": null,
+    "bars": null,
+    "sheets": null,
+    "milliliters": 0.96,
+    "liters": 960,
+    "pints": 460,
+    "quarts": 920,
+    "gallons": 3680,
+    "fluid_ounces": 40.6,
+    "drops": null,
+    "drams": 2,
+    "cans": null
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea6fd235715bb62e99158b"
+  },
+  "ingredient": "vegetable_oils",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 218,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "pieces": null,
+    "tablespoons": 13.64,
+    "teaspoons": 4.55,
+    "scoops": 109,
+    "pinches": null,
+    "dashes": null,
+    "smidgen": null,
+    "sticks": null,
+    "packets": null,
+    "bars": null,
+    "sheets": null,
+    "milliliters": 0.92,
+    "liters": 920,
+    "pints": 440,
+    "quarts": 880,
+    "gallons": 3520,
+    "fluid_ounces": 38.5,
+    "drops": null,
+    "drams": 1.9,
+    "cans": null
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea707435715bb62e99158d"
+  },
+  "ingredient": "whole_egg",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 243,
+    "ounces": 50,
+    "pounds": 453.59,
+    "pieces": 50,
+    "tablespoons": 15,
+    "teaspoons": 5,
+    "scoops": null,
+    "pinches": null,
+    "dashes": null,
+    "smidgen": null,
+    "sticks": null,
+    "packets": null,
+    "bars": null,
+    "sheets": null,
+    "milliliters": 50,
+    "liters": 1000,
+    "pints": 500,
+    "quarts": 1000,
+    "gallons": 4000,
+    "fluid_ounces": 1.7,
+    "drops": null,
+    "drams": 2.5,
+    "cans": null
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea707435715bb62e99158e"
+  },
+  "ingredient": "egg_yolk",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 250,
+    "ounces": 17,
+    "pounds": 453.59,
+    "pieces": 17,
+    "tablespoons": 6,
+    "teaspoons": 2,
+    "scoops": null,
+    "pinches": null,
+    "dashes": null,
+    "smidgen": null,
+    "sticks": null,
+    "packets": null,
+    "bars": null,
+    "sheets": null,
+    "milliliters": 17,
+    "liters": 1000,
+    "pints": 500,
+    "quarts": 1000,
+    "gallons": 4000,
+    "fluid_ounces": 0.6,
+    "drops": null,
+    "drams": 1,
+    "cans": null
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea707435715bb62e99158f"
+  },
+  "ingredient": "egg_white",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 258,
+    "ounces": 30,
+    "pounds": 453.59,
+    "pieces": 30,
+    "tablespoons": 10,
+    "teaspoons": 3.3,
+    "scoops": null,
+    "pinches": null,
+    "dashes": null,
+    "smidgen": null,
+    "sticks": null,
+    "packets": null,
+    "bars": null,
+    "sheets": null,
+    "milliliters": 30,
+    "liters": 1000,
+    "pints": 500,
+    "quarts": 1000,
+    "gallons": 4000,
+    "fluid_ounces": 1,
+    "drops": null,
+    "drams": 1.5,
+    "cans": null
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea707435715bb62e991590"
+  },
+  "ingredient": "powdered_egg",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 120,
+    "ounces": 25,
+    "pounds": 453.59,
+    "pieces": null,
+    "tablespoons": 8.3,
+    "teaspoons": 2.8,
+    "scoops": null,
+    "pinches": null,
+    "dashes": null,
+    "smidgen": null,
+    "sticks": null,
+    "packets": null,
+    "bars": null,
+    "sheets": null,
+    "milliliters": 25,
+    "liters": 1000,
+    "pints": 500,
+    "quarts": 1000,
+    "gallons": 4000,
+    "fluid_ounces": 0.8,
+    "drops": null,
+    "drams": 1.2,
+    "cans": null
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea707435715bb62e991591"
+  },
+  "ingredient": "duck_egg",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 338,
+    "ounces": 70,
+    "pounds": 453.59,
+    "pieces": 70,
+    "tablespoons": 20,
+    "teaspoons": 6.7,
+    "scoops": null,
+    "pinches": null,
+    "dashes": null,
+    "smidgen": null,
+    "sticks": null,
+    "packets": null,
+    "bars": null,
+    "sheets": null,
+    "milliliters": 70,
+    "liters": 1000,
+    "pints": 500,
+    "quarts": 1000,
+    "gallons": 4000,
+    "fluid_ounces": 2.4,
+    "drops": null,
+    "drams": 3.5,
+    "cans": null
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea707435715bb62e991592"
+  },
+  "ingredient": "quail_egg",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 90,
+    "ounces": 10,
+    "pounds": 453.59,
+    "pieces": 10,
+    "tablespoons": 3.3,
+    "teaspoons": 1.1,
+    "scoops": null,
+    "pinches": null,
+    "dashes": null,
+    "smidgen": null,
+    "sticks": null,
+    "packets": null,
+    "bars": null,
+    "sheets": null,
+    "milliliters": 10,
+    "liters": 1000,
+    "pints": 500,
+    "quarts": 1000,
+    "gallons": 4000,
+    "fluid_ounces": 0.3,
+    "drops": null,
+    "drams": 0.5,
+    "cans": null
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea725e35715bb62e991595"
+  },
+  "ingredient": "skim_milk",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 245,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "pieces": null,
+    "tablespoons": 15.3,
+    "teaspoons": 5.1,
+    "scoops": null,
+    "pinches": null,
+    "dashes": null,
+    "smidgen": null,
+    "sticks": null,
+    "packets": null,
+    "bars": null,
+    "sheets": null,
+    "milliliters": 245,
+    "liters": 1000,
+    "pints": 500,
+    "quarts": 1000,
+    "gallons": 4000,
+    "fluid_ounces": 8.2,
+    "drops": null,
+    "drams": 16.4,
+    "cans": null
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea725e35715bb62e991596"
+  },
+  "ingredient": "buttermilk",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 245,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "pieces": null,
+    "tablespoons": 15.3,
+    "teaspoons": 5.1,
+    "scoops": null,
+    "pinches": null,
+    "dashes": null,
+    "smidgen": null,
+    "sticks": null,
+    "packets": null,
+    "bars": null,
+    "sheets": null,
+    "milliliters": 245,
+    "liters": 1000,
+    "pints": 500,
+    "quarts": 1000,
+    "gallons": 4000,
+    "fluid_ounces": 8.2,
+    "drops": null,
+    "drams": 16.4,
+    "cans": null
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea725e35715bb62e991597"
+  },
+  "ingredient": "evaporated_milk",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 252,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "pieces": null,
+    "tablespoons": 16,
+    "teaspoons": 5.3,
+    "scoops": null,
+    "pinches": null,
+    "dashes": null,
+    "smidgen": null,
+    "sticks": null,
+    "packets": null,
+    "bars": null,
+    "sheets": null,
+    "milliliters": 252,
+    "liters": 1000,
+    "pints": 500,
+    "quarts": 1000,
+    "gallons": 4000,
+    "fluid_ounces": 8.5,
+    "drops": null,
+    "drams": 17,
+    "cans": 354
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea725e35715bb62e991598"
+  },
+  "ingredient": "condensed_milk",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 306,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "pieces": null,
+    "tablespoons": 19.1,
+    "teaspoons": 6.4,
+    "scoops": null,
+    "pinches": null,
+    "dashes": null,
+    "smidgen": null,
+    "sticks": null,
+    "packets": null,
+    "bars": null,
+    "sheets": null,
+    "milliliters": 306,
+    "liters": 1000,
+    "pints": 500,
+    "quarts": 1000,
+    "gallons": 4000,
+    "fluid_ounces": 10.3,
+    "drops": null,
+    "drams": 20.6,
+    "cans": 396
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea725e35715bb62e991599"
+  },
+  "ingredient": "powdered_milk",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 125,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "pieces": null,
+    "tablespoons": 8.3,
+    "teaspoons": 2.8,
+    "scoops": null,
+    "pinches": null,
+    "dashes": null,
+    "smidgen": null,
+    "sticks": null,
+    "packets": null,
+    "bars": null,
+    "sheets": null,
+    "milliliters": null,
+    "liters": null,
+    "pints": null,
+    "quarts": null,
+    "gallons": null,
+    "fluid_ounces": null,
+    "drops": null,
+    "drams": null,
+    "cans": null
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea725e35715bb62e99159a"
+  },
+  "ingredient": "water",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 240,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "pieces": null,
+    "tablespoons": 15,
+    "teaspoons": 5,
+    "scoops": null,
+    "pinches": null,
+    "dashes": null,
+    "smidgen": null,
+    "sticks": null,
+    "packets": null,
+    "bars": null,
+    "sheets": null,
+    "milliliters": 240,
+    "liters": 1000,
+    "pints": 500,
+    "quarts": 1000,
+    "gallons": 4000,
+    "fluid_ounces": 8,
+    "drops": 0.05,
+    "drams": 16,
+    "cans": null
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea73ca35715bb62e99159c"
+  },
+  "ingredient": "whole_milk",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 240,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "pieces": null,
+    "tablespoons": 15,
+    "teaspoons": 5,
+    "scoops": null,
+    "pinches": null,
+    "dashes": null,
+    "smidgen": null,
+    "sticks": null,
+    "packets": null,
+    "bars": null,
+    "sheets": null,
+    "milliliters": 240,
+    "liters": 1000,
+    "pints": 500,
+    "quarts": 1000,
+    "gallons": 4000,
+    "fluid_ounces": 8,
+    "drops": null,
+    "drams": 16,
+    "cans": null
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea73ca35715bb62e99159d"
+  },
+  "ingredient": "almond_extract",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": null,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "pieces": null,
+    "tablespoons": 12,
+    "teaspoons": 4,
+    "scoops": null,
+    "pinches": null,
+    "dashes": null,
+    "smidgen": null,
+    "sticks": null,
+    "packets": null,
+    "bars": null,
+    "sheets": null,
+    "milliliters": 12,
+    "liters": null,
+    "pints": null,
+    "quarts": null,
+    "gallons": null,
+    "fluid_ounces": 0.4,
+    "drops": 0.6,
+    "drams": null,
+    "cans": null
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea73ca35715bb62e99159e"
+  },
+  "ingredient": "orange_extract",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": null,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "pieces": null,
+    "tablespoons": 12,
+    "teaspoons": 4,
+    "scoops": null,
+    "pinches": null,
+    "dashes": null,
+    "smidgen": null,
+    "sticks": null,
+    "packets": null,
+    "bars": null,
+    "sheets": null,
+    "milliliters": 12,
+    "liters": null,
+    "pints": null,
+    "quarts": null,
+    "gallons": null,
+    "fluid_ounces": 0.4,
+    "drops": 0.6,
+    "drams": null,
+    "cans": null
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea73ca35715bb62e99159f"
+  },
+  "ingredient": "vanilla_extract",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": null,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "pieces": null,
+    "tablespoons": 12,
+    "teaspoons": 4,
+    "scoops": null,
+    "pinches": null,
+    "dashes": null,
+    "smidgen": null,
+    "sticks": null,
+    "packets": null,
+    "bars": null,
+    "sheets": null,
+    "milliliters": 12,
+    "liters": null,
+    "pints": null,
+    "quarts": null,
+    "gallons": null,
+    "fluid_ounces": 0.4,
+    "drops": 0.6,
+    "drams": null,
+    "cans": null
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea73ca35715bb62e9915a0"
+  },
+  "ingredient": "rose_water",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 240,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "pieces": null,
+    "tablespoons": 15,
+    "teaspoons": 5,
+    "scoops": null,
+    "pinches": null,
+    "dashes": null,
+    "smidgen": null,
+    "sticks": null,
+    "packets": null,
+    "bars": null,
+    "sheets": null,
+    "milliliters": 240,
+    "liters": 1000,
+    "pints": 500,
+    "quarts": 1000,
+    "gallons": 4000,
+    "fluid_ounces": 8,
+    "drops": 0.6,
+    "drams": 16,
+    "cans": null
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea73ca35715bb62e9915a1"
+  },
+  "ingredient": "orange_blossom_water",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 240,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "pieces": null,
+    "tablespoons": 15,
+    "teaspoons": 5,
+    "scoops": null,
+    "pinches": null,
+    "dashes": null,
+    "smidgen": null,
+    "sticks": null,
+    "packets": null,
+    "bars": null,
+    "sheets": null,
+    "milliliters": 240,
+    "liters": 1000,
+    "pints": 500,
+    "quarts": 1000,
+    "gallons": 4000,
+    "fluid_ounces": 8,
+    "drops": 0.6,
+    "drams": 16,
+    "cans": null
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea744835715bb62e9915a3"
+  },
+  "ingredient": "almonds",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 143,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "pieces": 1.2,
+    "tablespoons": 12,
+    "teaspoons": 4,
+    "scoops": null,
+    "pinches": null,
+    "dashes": null,
+    "smidgen": null,
+    "sticks": null,
+    "packets": null,
+    "bars": null,
+    "sheets": null,
+    "milliliters": null,
+    "liters": null,
+    "pints": null,
+    "quarts": null,
+    "gallons": null,
+    "fluid_ounces": null,
+    "drops": null,
+    "drams": null,
+    "cans": null
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea744835715bb62e9915a4"
+  },
+  "ingredient": "walnuts",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 117,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "pieces": 2.5,
+    "tablespoons": 7.3,
+    "teaspoons": 2.4,
+    "scoops": null,
+    "pinches": null,
+    "dashes": null,
+    "smidgen": null,
+    "sticks": null,
+    "packets": null,
+    "bars": null,
+    "sheets": null,
+    "milliliters": null,
+    "liters": null,
+    "pints": null,
+    "quarts": null,
+    "gallons": null,
+    "fluid_ounces": null,
+    "drops": null,
+    "drams": null,
+    "cans": null
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea744835715bb62e9915a5"
+  },
+  "ingredient": "pecans",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 100,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "pieces": 3,
+    "tablespoons": 6.5,
+    "teaspoons": 2.2,
+    "scoops": null,
+    "pinches": null,
+    "dashes": null,
+    "smidgen": null,
+    "sticks": null,
+    "packets": null,
+    "bars": null,
+    "sheets": null,
+    "milliliters": null,
+    "liters": null,
+    "pints": null,
+    "quarts": null,
+    "gallons": null,
+    "fluid_ounces": null,
+    "drops": null,
+    "drams": null,
+    "cans": null
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea744835715bb62e9915a6"
+  },
+  "ingredient": "hazelnuts",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 135,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "pieces": 1.1,
+    "tablespoons": 11.2,
+    "teaspoons": 3.7,
+    "scoops": null,
+    "pinches": null,
+    "dashes": null,
+    "smidgen": null,
+    "sticks": null,
+    "packets": null,
+    "bars": null,
+    "sheets": null,
+    "milliliters": null,
+    "liters": null,
+    "pints": null,
+    "quarts": null,
+    "gallons": null,
+    "fluid_ounces": null,
+    "drops": null,
+    "drams": null,
+    "cans": null
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea744835715bb62e9915a7"
+  },
+  "ingredient": "cashews",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 137,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "pieces": 1.5,
+    "tablespoons": 11.5,
+    "teaspoons": 3.8,
+    "scoops": null,
+    "pinches": null,
+    "dashes": null,
+    "smidgen": null,
+    "sticks": null,
+    "packets": null,
+    "bars": null,
+    "sheets": null,
+    "milliliters": null,
+    "liters": null,
+    "pints": null,
+    "quarts": null,
+    "gallons": null,
+    "fluid_ounces": null,
+    "drops": null,
+    "drams": null,
+    "cans": null
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea744835715bb62e9915a8"
+  },
+  "ingredient": "macadamia_nuts",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 132,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "pieces": 2.2,
+    "tablespoons": 10.8,
+    "teaspoons": 3.6,
+    "scoops": null,
+    "pinches": null,
+    "dashes": null,
+    "smidgen": null,
+    "sticks": null,
+    "packets": null,
+    "bars": null,
+    "sheets": null,
+    "milliliters": null,
+    "liters": null,
+    "pints": null,
+    "quarts": null,
+    "gallons": null,
+    "fluid_ounces": null,
+    "drops": null,
+    "drams": null,
+    "cans": null
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea744835715bb62e9915a9"
+  },
+  "ingredient": "pistachios",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 123,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "pieces": 1.2,
+    "tablespoons": 10.1,
+    "teaspoons": 3.4,
+    "scoops": null,
+    "pinches": null,
+    "dashes": null,
+    "smidgen": null,
+    "sticks": null,
+    "packets": null,
+    "bars": null,
+    "sheets": null,
+    "milliliters": null,
+    "liters": null,
+    "pints": null,
+    "quarts": null,
+    "gallons": null,
+    "fluid_ounces": null,
+    "drops": null,
+    "drams": null,
+    "cans": null
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea744835715bb62e9915aa"
+  },
+  "ingredient": "pine_nuts",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 135,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "pieces": 1.8,
+    "tablespoons": 11.2,
+    "teaspoons": 3.7,
+    "scoops": null,
+    "pinches": null,
+    "dashes": null,
+    "smidgen": null,
+    "sticks": null,
+    "packets": null,
+    "bars": null,
+    "sheets": null,
+    "milliliters": null,
+    "liters": null,
+    "pints": null,
+    "quarts": null,
+    "gallons": null,
+    "fluid_ounces": null,
+    "drops": null,
+    "drams": null,
+    "cans": null
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea744835715bb62e9915ab"
+  },
+  "ingredient": "coconut",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 80,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "pieces": 30,
+    "tablespoons": 5.3,
+    "teaspoons": 1.8,
+    "scoops": null,
+    "pinches": null,
+    "dashes": null,
+    "smidgen": null,
+    "sticks": null,
+    "packets": null,
+    "bars": null,
+    "sheets": null,
+    "milliliters": null,
+    "liters": null,
+    "pints": null,
+    "quarts": null,
+    "gallons": null,
+    "fluid_ounces": null,
+    "drops": null,
+    "drams": null,
+    "cans": null
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea75cb35715bb62e9915ad"
+  },
+  "ingredient": "sesame_seeds",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 144,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "pieces": null,
+    "tablespoons": 9,
+    "teaspoons": 3,
+    "scoops": null,
+    "pinches": null,
+    "dashes": null,
+    "smidgen": null,
+    "sticks": null,
+    "packets": null,
+    "bars": null,
+    "sheets": null,
+    "milliliters": null,
+    "liters": null,
+    "pints": null,
+    "quarts": null,
+    "gallons": null,
+    "fluid_ounces": null,
+    "drops": null,
+    "drams": null,
+    "cans": null
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea75cb35715bb62e9915ae"
+  },
+  "ingredient": "poppy_seeds",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 136,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "pieces": null,
+    "tablespoons": 8.5,
+    "teaspoons": 2.8,
+    "scoops": null,
+    "pinches": null,
+    "dashes": null,
+    "smidgen": null,
+    "sticks": null,
+    "packets": null,
+    "bars": null,
+    "sheets": null,
+    "milliliters": null,
+    "liters": null,
+    "pints": null,
+    "quarts": null,
+    "gallons": null,
+    "fluid_ounces": null,
+    "drops": null,
+    "drams": null,
+    "cans": null
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea75cb35715bb62e9915af"
+  },
+  "ingredient": "chia_seeds",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 120,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "pieces": null,
+    "tablespoons": 7.2,
+    "teaspoons": 2.4,
+    "scoops": null,
+    "pinches": null,
+    "dashes": null,
+    "smidgen": null,
+    "sticks": null,
+    "packets": null,
+    "bars": null,
+    "sheets": null,
+    "milliliters": null,
+    "liters": null,
+    "pints": null,
+    "quarts": null,
+    "gallons": null,
+    "fluid_ounces": null,
+    "drops": null,
+    "drams": null,
+    "cans": null
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea75cb35715bb62e9915b0"
+  },
+  "ingredient": "flaxseeds",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 170,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "pieces": null,
+    "tablespoons": 10.6,
+    "teaspoons": 3.5,
+    "scoops": null,
+    "pinches": null,
+    "dashes": null,
+    "smidgen": null,
+    "sticks": null,
+    "packets": null,
+    "bars": null,
+    "sheets": null,
+    "milliliters": null,
+    "liters": null,
+    "pints": null,
+    "quarts": null,
+    "gallons": null,
+    "fluid_ounces": null,
+    "drops": null,
+    "drams": null,
+    "cans": null
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea75cb35715bb62e9915b1"
+  },
+  "ingredient": "sunflower_seeds",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 133,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "pieces": null,
+    "tablespoons": 8.3,
+    "teaspoons": 2.8,
+    "scoops": null,
+    "pinches": null,
+    "dashes": null,
+    "smidgen": null,
+    "sticks": null,
+    "packets": null,
+    "bars": null,
+    "sheets": null,
+    "milliliters": null,
+    "liters": null,
+    "pints": null,
+    "quarts": null,
+    "gallons": null,
+    "fluid_ounces": null,
+    "drops": null,
+    "drams": null,
+    "cans": null
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea75cb35715bb62e9915b2"
+  },
+  "ingredient": "pumpkin_seeds",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 129,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "pieces": null,
+    "tablespoons": 8,
+    "teaspoons": 2.7,
+    "scoops": null,
+    "pinches": null,
+    "dashes": null,
+    "smidgen": null,
+    "sticks": null,
+    "packets": null,
+    "bars": null,
+    "sheets": null,
+    "milliliters": null,
+    "liters": null,
+    "pints": null,
+    "quarts": null,
+    "gallons": null,
+    "fluid_ounces": null,
+    "drops": null,
+    "drams": null,
+    "cans": null
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea75cb35715bb62e9915b3"
+  },
+  "ingredient": "hemp_seeds",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 150,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "pieces": null,
+    "tablespoons": 9.5,
+    "teaspoons": 3.2,
+    "scoops": null,
+    "pinches": null,
+    "dashes": null,
+    "smidgen": null,
+    "sticks": null,
+    "packets": null,
+    "bars": null,
+    "sheets": null,
+    "milliliters": null,
+    "liters": null,
+    "pints": null,
+    "quarts": null,
+    "gallons": null,
+    "fluid_ounces": null,
+    "drops": null,
+    "drams": null,
+    "cans": null
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea762735715bb62e9915b5"
+  },
+  "ingredient": "nigella_seeds",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 140,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "pieces": null,
+    "tablespoons": 8.8,
+    "teaspoons": 2.9,
+    "scoops": null,
+    "pinches": null,
+    "dashes": null,
+    "smidgen": null,
+    "sticks": null,
+    "packets": null,
+    "bars": null,
+    "sheets": null,
+    "milliliters": null,
+    "liters": null,
+    "pints": null,
+    "quarts": null,
+    "gallons": null,
+    "fluid_ounces": null,
+    "drops": null,
+    "drams": null,
+    "cans": null
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea762735715bb62e9915b6"
+  },
+  "ingredient": "caraway_seeds",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 160,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "pieces": null,
+    "tablespoons": 10,
+    "teaspoons": 3.3,
+    "scoops": null,
+    "pinches": null,
+    "dashes": null,
+    "smidgen": null,
+    "sticks": null,
+    "packets": null,
+    "bars": null,
+    "sheets": null,
+    "milliliters": null,
+    "liters": null,
+    "pints": null,
+    "quarts": null,
+    "gallons": null,
+    "fluid_ounces": null,
+    "drops": null,
+    "drams": null,
+    "cans": null
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea762735715bb62e9915b7"
+  },
+  "ingredient": "fennel_seeds",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 98,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "pieces": null,
+    "tablespoons": 6.1,
+    "teaspoons": 2.1,
+    "scoops": null,
+    "pinches": null,
+    "dashes": null,
+    "smidgen": null,
+    "sticks": null,
+    "packets": null,
+    "bars": null,
+    "sheets": null,
+    "milliliters": null,
+    "liters": null,
+    "pints": null,
+    "quarts": null,
+    "gallons": null,
+    "fluid_ounces": null,
+    "drops": null,
+    "drams": null,
+    "cans": null
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea77db35715bb62e9915b9"
+  },
+  "ingredient": "coffee_extract",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": null,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "pieces": null,
+    "tablespoons": 14,
+    "teaspoons": 4.7,
+    "scoops": null,
+    "pinches": null,
+    "dashes": null,
+    "smidgen": null,
+    "sticks": null,
+    "packets": null,
+    "bars": null,
+    "sheets": null,
+    "milliliters": 13,
+    "liters": null,
+    "pints": null,
+    "quarts": null,
+    "gallons": null,
+    "fluid_ounces": 29.57,
+    "drops": 0.6,
+    "drams": null,
+    "cans": null
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea77db35715bb62e9915ba"
+  },
+  "ingredient": "peppermint_extract",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": null,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "pieces": null,
+    "tablespoons": 13.8,
+    "teaspoons": 4.6,
+    "scoops": null,
+    "pinches": null,
+    "dashes": null,
+    "smidgen": null,
+    "sticks": null,
+    "packets": null,
+    "bars": null,
+    "sheets": null,
+    "milliliters": 12.8,
+    "liters": null,
+    "pints": null,
+    "quarts": null,
+    "gallons": null,
+    "fluid_ounces": 29.57,
+    "drops": 0.6,
+    "drams": null,
+    "cans": null
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea721e572088c1a2124c0d"
+  },
+  "ingredient": "raisins",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 150,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "pieces": 0.5
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea721e572088c1a2124c0e"
+  },
+  "ingredient": "cranberries",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 100,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "pieces": 0.7
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea72c8572088c1a2124c10"
+  },
+  "ingredient": "dates",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 150,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "pieces": 8
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea72c8572088c1a2124c11"
+  },
+  "ingredient": "figs",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 140,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "pieces": 10
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea72c8572088c1a2124c12"
+  },
+  "ingredient": "apricots",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 130,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "pieces": 7
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea72c8572088c1a2124c13"
+  },
+  "ingredient": "prunes",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 120,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "pieces": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea72c8572088c1a2124c14"
+  },
+  "ingredient": "cherries",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 110,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "pieces": 15
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea72c8572088c1a2124c15"
+  },
+  "ingredient": "blueberries",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 130,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "pieces": 0.3
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea72c8572088c1a2124c16"
+  },
+  "ingredient": "mango",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 160,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "pieces": 1
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea7340572088c1a2124c18"
+  },
+  "ingredient": "strawberries",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 140,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "pieces": 12
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea7340572088c1a2124c19"
+  },
+  "ingredient": "pineapple",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 150,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "pieces": 1
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea7340572088c1a2124c1a"
+  },
+  "ingredient": "goji berries",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 120,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "pieces": 0.2
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea7340572088c1a2124c1b"
+  },
+  "ingredient": "cocoa powder",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 120,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "tablespoons": 7,
+    "teaspoons": 21,
+    "pinches": 0.3,
+    "dashes": 0.5,
+    "smidgen": 0.1,
+    "packets": 25
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea7340572088c1a2124c1c"
+  },
+  "ingredient": "chocolate chips",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 170,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "pieces": 0.5,
+    "tablespoons": 12,
+    "teaspoons": 36
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea7340572088c1a2124c1d"
+  },
+  "ingredient": "white chocolate",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 180,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "bars": 100
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea73a0572088c1a2124c1f"
+  },
+  "ingredient": "liquid food coloring",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "tablespoons": 15,
+    "teaspoons": 4.2,
+    "milliliters": 1,
+    "liters": 1000,
+    "pints": 473,
+    "quarts": 946,
+    "gallons": 3785,
+    "fluid_ounces": 30,
+    "drops": 0.05,
+    "drams": 3.7
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea73a0572088c1a2124c20"
+  },
+  "ingredient": "gel food coloring",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "tablespoons": 12,
+    "teaspoons": 3.8,
+    "milliliters": 1.2,
+    "liters": 1200,
+    "pints": 568,
+    "quarts": 1136,
+    "gallons": 4542,
+    "fluid_ounces": 36,
+    "drops": 0.1,
+    "drams": 4.4
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea73a0572088c1a2124c21"
+  },
+  "ingredient": "powdered food coloring",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "tablespoons": 8,
+    "teaspoons": 3.5,
+    "scoops": 5,
+    "pinches": 0.5,
+    "dashes": 0.8,
+    "smidgen": 0.2,
+    "packets": 10
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea73a0572088c1a2124c22"
+  },
+  "ingredient": "oil-based food coloring",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "tablespoons": 10,
+    "teaspoons": 3.2,
+    "milliliters": 0.9,
+    "liters": 900,
+    "pints": 426,
+    "quarts": 852,
+    "gallons": 3408,
+    "fluid_ounces": 27,
+    "drops": 0.08,
+    "drams": 4
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea73a0572088c1a2124c23"
+  },
+  "ingredient": "natural food coloring",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "tablespoons": 14,
+    "teaspoons": 3.9,
+    "milliliters": 1.1,
+    "liters": 1100,
+    "pints": 521,
+    "quarts": 1042,
+    "gallons": 4168,
+    "fluid_ounces": 33,
+    "drops": 0.07,
+    "drams": 4.2
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea7418572088c1a2124c25"
+  },
+  "ingredient": "sourdough starter",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 240,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "tablespoons": 15,
+    "teaspoons": 5,
+    "milliliters": 240,
+    "liters": 1,
+    "pints": 473,
+    "quarts": 946,
+    "gallons": 3785,
+    "fluid_ounces": 8
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea7418572088c1a2124c26"
+  },
+  "ingredient": "baking powder",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 220,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "tablespoons": 14,
+    "teaspoons": 4.8,
+    "pinches": 0.5,
+    "dashes": 0.8,
+    "smidgen": 0.2,
+    "packets": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea7418572088c1a2124c27"
+  },
+  "ingredient": "baking soda",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 230,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "tablespoons": 12,
+    "teaspoons": 4.2,
+    "pinches": 0.4,
+    "dashes": 0.7,
+    "smidgen": 0.15,
+    "packets": 7
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea7418572088c1a2124c28"
+  },
+  "ingredient": "cream of tartar",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 150,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "tablespoons": 10,
+    "teaspoons": 4.5,
+    "pinches": 0.3,
+    "dashes": 0.6,
+    "smidgen": 0.1,
+    "packets": 3
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea7418572088c1a2124c29"
+  },
+  "ingredient": "gelatin",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 225,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "tablespoons": 12,
+    "teaspoons": 4,
+    "packets": 7,
+    "sheets": 2
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea7418572088c1a2124c2a"
+  },
+  "ingredient": "ammonium bicarbonate",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 480,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "tablespoons": 15,
+    "teaspoons": 3.7,
+    "pinches": 0.2,
+    "dashes": 0.4,
+    "smidgen": 0.05,
+    "packets": 10
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea75bd572088c1a2124c2c"
+  },
+  "ingredient": "honey",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 340,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "tablespoons": 21.3,
+    "teaspoons": 7.1,
+    "milliliters": 340,
+    "liters": 1.18,
+    "pints": 567,
+    "quarts": 1134,
+    "gallons": 4536,
+    "fluid_ounces": 11.5
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea75bd572088c1a2124c2d"
+  },
+  "ingredient": "whipping cream",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 240,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "tablespoons": 15,
+    "teaspoons": 5,
+    "milliliters": 240,
+    "liters": 1,
+    "pints": 473,
+    "quarts": 946,
+    "gallons": 3785,
+    "fluid_ounces": 8
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea75bd572088c1a2124c2e"
+  },
+  "ingredient": "maple syrup",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 322,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "tablespoons": 20.5,
+    "teaspoons": 6.8,
+    "milliliters": 322,
+    "liters": 1.07,
+    "pints": 536,
+    "quarts": 1072,
+    "gallons": 4288,
+    "fluid_ounces": 10.9
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea75bd572088c1a2124c2f"
+  },
+  "ingredient": "corn syrup",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 340,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "tablespoons": 21,
+    "teaspoons": 7,
+    "milliliters": 340,
+    "liters": 1.13,
+    "pints": 567,
+    "quarts": 1134,
+    "gallons": 4536,
+    "fluid_ounces": 11.5
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea75bd572088c1a2124c30"
+  },
+  "ingredient": "molasses",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 308,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "tablespoons": 19.3,
+    "teaspoons": 6.4,
+    "milliliters": 308,
+    "liters": 1.03,
+    "pints": 513,
+    "quarts": 1026,
+    "gallons": 4104,
+    "fluid_ounces": 10.4
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea75bd572088c1a2124c31"
+  },
+  "ingredient": "agave syrup",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 320,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "tablespoons": 20,
+    "teaspoons": 6.7,
+    "milliliters": 320,
+    "liters": 1.07,
+    "pints": 533,
+    "quarts": 1066,
+    "gallons": 4264,
+    "fluid_ounces": 10.8
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea75bd572088c1a2124c32"
+  },
+  "ingredient": "golden syrup",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 328,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "tablespoons": 20.7,
+    "teaspoons": 6.9,
+    "milliliters": 328,
+    "liters": 1.09,
+    "pints": 547,
+    "quarts": 1094,
+    "gallons": 4376,
+    "fluid_ounces": 11.1
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea75bd572088c1a2124c33"
+  },
+  "ingredient": "barley malt syrup",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 330,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "tablespoons": 21,
+    "teaspoons": 7,
+    "milliliters": 330,
+    "liters": 1.1,
+    "pints": 550,
+    "quarts": 1100,
+    "gallons": 4400,
+    "fluid_ounces": 11.2
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea75bd572088c1a2124c34"
+  },
+  "ingredient": "rice syrup",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 336,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "tablespoons": 21.5,
+    "teaspoons": 7.2,
+    "milliliters": 336,
+    "liters": 1.12,
+    "pints": 560,
+    "quarts": 1120,
+    "gallons": 4480,
+    "fluid_ounces": 11.4
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea75bd572088c1a2124c35"
+  },
+  "ingredient": "date syrup",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 340,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "tablespoons": 22,
+    "teaspoons": 7.3,
+    "milliliters": 340,
+    "liters": 1.13,
+    "pints": 567,
+    "quarts": 1134,
+    "gallons": 4536,
+    "fluid_ounces": 11.5
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea76d4572088c1a2124c37"
+  },
+  "ingredient": "nutmeg",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "pieces": 4,
+    "tablespoons": 6,
+    "teaspoons": 2.5,
+    "pinches": 12,
+    "dashes": 8,
+    "smidgen": 4,
+    "drops": 20
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea76d4572088c1a2124c38"
+  },
+  "ingredient": "cloves",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "pieces": 6,
+    "tablespoons": 7,
+    "teaspoons": 2.8,
+    "pinches": 14,
+    "dashes": 9,
+    "smidgen": 5,
+    "drops": 25
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea76d4572088c1a2124c39"
+  },
+  "ingredient": "cardamom",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "pieces": 5,
+    "tablespoons": 5,
+    "teaspoons": 2.6,
+    "pinches": 11,
+    "dashes": 7,
+    "smidgen": 3,
+    "drops": 22
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea76d4572088c1a2124c3a"
+  },
+  "ingredient": "cinnamon",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "pieces": 3,
+    "tablespoons": 8,
+    "teaspoons": 2.4,
+    "pinches": 10,
+    "dashes": 6,
+    "smidgen": 3,
+    "sticks": 1,
+    "drops": 18
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea76d4572088c1a2124c3b"
+  },
+  "ingredient": "ginger",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "pieces": 4,
+    "tablespoons": 6,
+    "teaspoons": 2.7,
+    "pinches": 13,
+    "dashes": 8,
+    "smidgen": 4,
+    "drops": 21
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea76d4572088c1a2124c3c"
+  },
+  "ingredient": "mace",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "pieces": 4,
+    "tablespoons": 5,
+    "teaspoons": 2.3,
+    "pinches": 12,
+    "dashes": 7,
+    "smidgen": 3,
+    "drops": 19
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea76d4572088c1a2124c3d"
+  },
+  "ingredient": "star anise",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "pieces": 5,
+    "tablespoons": 6,
+    "teaspoons": 3,
+    "pinches": 15,
+    "dashes": 9,
+    "smidgen": 5,
+    "drops": 23
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea76d4572088c1a2124c3e"
+  },
+  "ingredient": "saffron",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "pinches": 5,
+    "dashes": 3,
+    "smidgen": 2,
+    "packets": 1,
+    "drops": 10
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea709b8b4b413839a11f9f"
+  },
+  "ingredient": "Heavy Cream",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 240,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "tablespoons": 15,
+    "teaspoons": 5,
+    "scoops": 120,
+    "milliliters": 1,
+    "liters": 1000,
+    "pints": 473.18,
+    "quarts": 946.35,
+    "gallons": 3785.41,
+    "fluid_ounces": 29.57
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea709b8b4b413839a11fa0"
+  },
+  "ingredient": "Yogurt",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 245,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "tablespoons": 15.3,
+    "teaspoons": 5.1,
+    "scoops": 120,
+    "milliliters": 1,
+    "liters": 1000,
+    "pints": 473.18,
+    "quarts": 946.35,
+    "gallons": 3785.41,
+    "fluid_ounces": 29.57
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea709b8b4b413839a11fa1"
+  },
+  "ingredient": "Cream Cheese",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 227,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "tablespoons": 14.2,
+    "teaspoons": 4.7,
+    "scoops": 120,
+    "milliliters": 1,
+    "liters": 1000,
+    "pints": 473.18,
+    "quarts": 946.35,
+    "gallons": 3785.41,
+    "fluid_ounces": 29.57,
+    "sticks": 113,
+    "bars": 225
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea709b8b4b413839a11fa2"
+  },
+  "ingredient": "Sour Cream",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 240,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "tablespoons": 15,
+    "teaspoons": 5,
+    "scoops": 120,
+    "pinches": 0.5,
+    "dashes": 0.33,
+    "smidgen": 0.17,
+    "milliliters": 1,
+    "liters": 1000,
+    "pints": 473.18,
+    "quarts": 946.35,
+    "gallons": 3785.41,
+    "fluid_ounces": 29.57
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea709b8b4b413839a11fa3"
+  },
+  "ingredient": "Mascarpone",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 225,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "tablespoons": 14,
+    "teaspoons": 4.7,
+    "scoops": 120,
+    "milliliters": 1,
+    "liters": 1000,
+    "pints": 473.18,
+    "quarts": 946.35,
+    "gallons": 3785.41,
+    "fluid_ounces": 29.57
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea709b8b4b413839a11fa4"
+  },
+  "ingredient": "Ricotta Cheese",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 250,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "tablespoons": 16,
+    "teaspoons": 5.3,
+    "scoops": 120,
+    "sheets": 10,
+    "pinches": 0.5,
+    "dashes": 0.33,
+    "smidgen": 0.17,
+    "milliliters": 1,
+    "liters": 1000,
+    "pints": 473.18,
+    "quarts": 946.35,
+    "gallons": 3785.41,
+    "fluid_ounces": 29.57
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea717b8b4b413839a11fa6"
+  },
+  "ingredient": "Corn Starch",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 120,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "tablespoons": 8,
+    "teaspoons": 2.6,
+    "pinches": 0.3,
+    "dashes": 0.2,
+    "smidgen": 0.1,
+    "milliliters": 1,
+    "liters": 1000,
+    "pints": 473.18,
+    "quarts": 946.35,
+    "gallons": 3785.41
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea717b8b4b413839a11fa7"
+  },
+  "ingredient": "Arrowroot Powder",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 128,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "tablespoons": 8.5,
+    "teaspoons": 2.8,
+    "pinches": 0.3,
+    "dashes": 0.2,
+    "smidgen": 0.1,
+    "milliliters": 1,
+    "liters": 1000,
+    "pints": 473.18,
+    "quarts": 946.35,
+    "gallons": 3785.41
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea717b8b4b413839a11fa8"
+  },
+  "ingredient": "Potato Starch",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 132,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "tablespoons": 9,
+    "teaspoons": 3,
+    "pinches": 0.3,
+    "dashes": 0.2,
+    "smidgen": 0.1,
+    "milliliters": 1,
+    "liters": 1000,
+    "pints": 473.18,
+    "quarts": 946.35,
+    "gallons": 3785.41
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea717b8b4b413839a11fa9"
+  },
+  "ingredient": "Xanthan Gum",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "tablespoons": 9.5,
+    "teaspoons": 3.2,
+    "pinches": 0.2,
+    "dashes": 0.15,
+    "smidgen": 0.05,
+    "milliliters": 1,
+    "liters": 1000,
+    "pints": 473.18,
+    "quarts": 946.35,
+    "gallons": 3785.41
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea717b8b4b413839a11faa"
+  },
+  "ingredient": "Guar Gum",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "tablespoons": 9,
+    "teaspoons": 3,
+    "pinches": 0.2,
+    "dashes": 0.15,
+    "smidgen": 0.05,
+    "milliliters": 1,
+    "liters": 1000,
+    "pints": 473.18,
+    "quarts": 946.35,
+    "gallons": 3785.41
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea717b8b4b413839a11fab"
+  },
+  "ingredient": "Edible Glitter",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "pinches": 0.1,
+    "dashes": 0.05,
+    "smidgen": 0.02
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea717b8b4b413839a11fac"
+  },
+  "ingredient": "Gold Leaf",
+  "conversions_to_grams": {
+    "sheets": 1
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea717b8b4b413839a11fad"
+  },
+  "ingredient": "Silver Leaf",
+  "conversions_to_grams": {
+    "sheets": 1
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea717b8b4b413839a11fae"
+  },
+  "ingredient": "Fondant",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 250,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "tablespoons": 15,
+    "teaspoons": 5,
+    "milliliters": 1,
+    "liters": 1000,
+    "pints": 473.18,
+    "quarts": 946.35,
+    "gallons": 3785.41
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea71db8b4b413839a11fb0"
+  },
+  "ingredient": "Teff Flour",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 120,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "tablespoons": 8,
+    "teaspoons": 2.6,
+    "pinches": 0.3,
+    "dashes": 0.2,
+    "smidgen": 0.1,
+    "milliliters": 1,
+    "liters": 1000,
+    "pints": 473.18,
+    "quarts": 946.35,
+    "gallons": 3785.41
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea71db8b4b413839a11fb1"
+  },
+  "ingredient": "Millet Flour",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 120,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "tablespoons": 8,
+    "teaspoons": 2.6,
+    "pinches": 0.3,
+    "dashes": 0.2,
+    "smidgen": 0.1,
+    "milliliters": 1,
+    "liters": 1000,
+    "pints": 473.18,
+    "quarts": 946.35,
+    "gallons": 3785.41
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea71db8b4b413839a11fb2"
+  },
+  "ingredient": "Sorghum Flour",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 120,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "tablespoons": 8,
+    "teaspoons": 2.6,
+    "pinches": 0.3,
+    "dashes": 0.2,
+    "smidgen": 0.1,
+    "milliliters": 1,
+    "liters": 1000,
+    "pints": 473.18,
+    "quarts": 946.35,
+    "gallons": 3785.41
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea71db8b4b413839a11fb3"
+  },
+  "ingredient": "Chickpea Flour",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 120,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "tablespoons": 8,
+    "teaspoons": 2.6,
+    "pinches": 0.3,
+    "dashes": 0.2,
+    "smidgen": 0.1,
+    "milliliters": 1,
+    "liters": 1000,
+    "pints": 473.18,
+    "quarts": 946.35,
+    "gallons": 3785.41
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea71db8b4b413839a11fb4"
+  },
+  "ingredient": "Rice Flour",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 120,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "tablespoons": 8,
+    "teaspoons": 2.6,
+    "pinches": 0.3,
+    "dashes": 0.2,
+    "smidgen": 0.1,
+    "milliliters": 1,
+    "liters": 1000,
+    "pints": 473.18,
+    "quarts": 946.35,
+    "gallons": 3785.41
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea71db8b4b413839a11fb5"
+  },
+  "ingredient": "Cassava Flour",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 120,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "tablespoons": 8,
+    "teaspoons": 2.6,
+    "pinches": 0.3,
+    "dashes": 0.2,
+    "smidgen": 0.1,
+    "milliliters": 1,
+    "liters": 1000,
+    "pints": 473.18,
+    "quarts": 946.35,
+    "gallons": 3785.41
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea71db8b4b413839a11fb6"
+  },
+  "ingredient": "Spelt Flour",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 120,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "tablespoons": 8,
+    "teaspoons": 2.6,
+    "pinches": 0.3,
+    "dashes": 0.2,
+    "smidgen": 0.1,
+    "milliliters": 1,
+    "liters": 1000,
+    "pints": 473.18,
+    "quarts": 946.35,
+    "gallons": 3785.41
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea71db8b4b413839a11fb7"
+  },
+  "ingredient": "Jimmies",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 120,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "tablespoons": 8,
+    "teaspoons": 2.6,
+    "pinches": 0.3,
+    "dashes": 0.2,
+    "smidgen": 0.1,
+    "milliliters": 1,
+    "liters": 1000,
+    "pints": 473.18,
+    "quarts": 946.35,
+    "gallons": 3785.41
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea78718b4b413839a11fb9"
+  },
+  "ingredient": "Gum Paste",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 120,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "tablespoons": 8,
+    "teaspoons": 2.6,
+    "pinches": 0.3,
+    "dashes": 0.2,
+    "smidgen": 0.1,
+    "milliliters": 1,
+    "liters": 1000,
+    "pints": 473.18,
+    "quarts": 946.35,
+    "gallons": 3785.41
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea78718b4b413839a11fba"
+  },
+  "ingredient": "Royal Icing",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 120,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "tablespoons": 8,
+    "teaspoons": 2.6,
+    "pinches": 0.3,
+    "dashes": 0.2,
+    "smidgen": 0.1,
+    "milliliters": 1,
+    "liters": 1000,
+    "pints": 473.18,
+    "quarts": 946.35,
+    "gallons": 3785.41
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea78718b4b413839a11fbb"
+  },
+  "ingredient": "Isomalt",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 200,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "tablespoons": 12,
+    "teaspoons": 4,
+    "pinches": 0.5,
+    "dashes": 0.3,
+    "smidgen": 0.2,
+    "milliliters": 1,
+    "liters": 1000,
+    "pints": 473.18,
+    "quarts": 946.35,
+    "gallons": 3785.41
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea78718b4b413839a11fbc"
+  },
+  "ingredient": "Nonpareils",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 150,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "tablespoons": 10,
+    "teaspoons": 3.3,
+    "pinches": 0.4,
+    "dashes": 0.3,
+    "smidgen": 0.15,
+    "milliliters": 1,
+    "liters": 1000,
+    "pints": 473.18,
+    "quarts": 946.35,
+    "gallons": 3785.41
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea78718b4b413839a11fbd"
+  },
+  "ingredient": "Confetti Sprinkles",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 150,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "tablespoons": 10,
+    "teaspoons": 3.3,
+    "pinches": 0.4,
+    "dashes": 0.3,
+    "smidgen": 0.15,
+    "milliliters": 1,
+    "liters": 1000,
+    "pints": 473.18,
+    "quarts": 946.35,
+    "gallons": 3785.41
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea78718b4b413839a11fbe"
+  },
+  "ingredient": "Sugar Crystals",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 200,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "tablespoons": 12,
+    "teaspoons": 4,
+    "pinches": 0.5,
+    "dashes": 0.3,
+    "smidgen": 0.2,
+    "milliliters": 1,
+    "liters": 1000,
+    "pints": 473.18,
+    "quarts": 946.35,
+    "gallons": 3785.41
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea78718b4b413839a11fbf"
+  },
+  "ingredient": "Dragees",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 250,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "tablespoons": 14,
+    "teaspoons": 4.5,
+    "pinches": 0.6,
+    "dashes": 0.35,
+    "smidgen": 0.25,
+    "milliliters": 1,
+    "liters": 1000,
+    "pints": 473.18,
+    "quarts": 946.35,
+    "gallons": 3785.41
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea78718b4b413839a11fc0"
+  },
+  "ingredient": "Pearl Sprinkles",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 250,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "tablespoons": 14,
+    "teaspoons": 4.5,
+    "pinches": 0.6,
+    "dashes": 0.35,
+    "smidgen": 0.25,
+    "milliliters": 1,
+    "liters": 1000,
+    "pints": 473.18,
+    "quarts": 946.35,
+    "gallons": 3785.41
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea78718b4b413839a11fc1"
+  },
+  "ingredient": "Chocolate Sprinkles",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 150,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "tablespoons": 10,
+    "teaspoons": 3.3,
+    "pinches": 0.4,
+    "dashes": 0.3,
+    "smidgen": 0.15,
+    "milliliters": 1,
+    "liters": 1000,
+    "pints": 473.18,
+    "quarts": 946.35,
+    "gallons": 3785.41
+  }
+},
+{
+  "_id": {
+    "$oid": "67ea78718b4b413839a11fc2"
+  },
+  "ingredient": "Colored Sugar",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 200,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "tablespoons": 12,
+    "teaspoons": 4,
+    "pinches": 0.5,
+    "dashes": 0.3,
+    "smidgen": 0.2,
+    "milliliters": 1,
+    "liters": 1000,
+    "pints": 473.18,
+    "quarts": 946.35,
+    "gallons": 3785.41
+  }
+},
+{
+  "_id": {
+    "$oid": "67ee3b32bea940b51d13389e"
+  },
+  "ingredient": "Milk",
+  "conversions_to_grams": {
+    "kilograms": 1000,
+    "cups": 240,
+    "ounces": 28.35,
+    "pounds": 453.59,
+    "tablespoons": 15,
+    "teaspoons": 5,
+    "scoops": null,
+    "sheets": null,
+    "pinches": null,
+    "dashes": null,
+    "smidgen": null,
+    "milliliters": 1,
+    "liters": 1000,
+    "pints": 473.18,
+    "quarts": 946.35,
+    "gallons": 3785.41,
+    "fluid_ounces": 29.57,
+    "drops": null,
+    "drams": null,
+    "cans": null
+  }
+}]
