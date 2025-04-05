@@ -9,7 +9,7 @@ from tabulate import tabulate
 app = Flask(__name__)
 
 # Configure Gemini API
-genai.configure(api_key="AIzaSyCQIi7JQhrwOZqt6JNS1kvz9hxsrRs2PgA")  # Replace with your actual key
+genai.configure(api_key="your own gemini api key")  # Replace with your actual key
 model = genai.GenerativeModel("gemini-1.5-pro-latest")
 
 # Connect to MongoDB
