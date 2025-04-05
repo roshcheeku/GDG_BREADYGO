@@ -10,7 +10,7 @@ app = Flask(__name__)
 CORS(app)  # Allow frontend to connect
 
 # Configure Gemini API
-genai.configure(api_key="AIzaSyCQIi7JQhrwOZqt6JNS1kvz9hxsrRs2PgA")  # Replace with your key
+genai.configure(api_key="your own gemini api key")  # Replace with your key
 model = genai.GenerativeModel("gemini-1.5-pro-latest")
 
 # Connect to MongoDB
